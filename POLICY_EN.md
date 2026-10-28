@@ -72,6 +72,7 @@ We update this document when game features, data practices or disclosure require
 - Залей поле — `mrapp.floodfill`
 - Змейка — `mrapp.snake_game`
 - Кибер Арена: Выживание — `ru.mrrinatino.cyberarena`
+- Кибер Арена: Выживание — `mrapp.cyberarena`
 - Контур — `mrapp.contour`
 - Косынка — `mrapp.solitaire`
 - Крестики-нолики — `mrapp.krestik_nolik`
